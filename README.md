@@ -35,6 +35,6 @@ Note: The model is trained and all the weights and id2word etc files are stored 
 ```
 
 ### Sample image
-<img src="https://github.com/Sidharth1998/ChatBot/blob/master/Sample.png" width="300" height="300">
+<img src="https://github.com/Sidharth1998/ChatBot/blob/master/Sample.png" width="800" height="300">
 
 #### Thank You
