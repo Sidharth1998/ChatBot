@@ -12,7 +12,7 @@ The data used to train the model is gunthercox. This data was used because there
 
 ## Tools and Technologies Used
 
-The complete code is written in python 3. The deep learning framework that is used is Keras because of its simplicity. Numpy is used to create matrices of data. The website was made with the help of Flask because of its simplicity. HTML and CSS are used for front-end.
+The complete code is written in python 3. The deep learning framework that is used is Keras because of its simplicity. Numpy is used to create matrices of data. The website was made with the help of Flask because of its simplicity. HTML and CSS were used for front-end.
 
 ### Downloading the dependencies from requirements file
 ```bash
